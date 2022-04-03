@@ -17,4 +17,3 @@ class Solution:
                 max_f = max(freq.values())
             
         return max(res, right-left+1)
-            
